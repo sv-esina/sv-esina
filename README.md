@@ -1,6 +1,6 @@
 <h1 align="center">Привет, я <a href="https://github.com/maniastel" target="_blank">Светлана</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">AQA Инженер</h3>
+<h3 align="center">AQA Инженер (Java)</h3>
 <h4 align="center">Добро пожаловать на мою страничку GitHub!
 
 <h3>Обо мне:</h3>
