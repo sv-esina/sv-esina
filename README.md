@@ -42,10 +42,10 @@
 
 ### Мои проекты по автоматизации тестирования на Java:
 
-#### 1.  Демо-проект UI автотестирования сайта 
+####  Демо-проект UI автотестирования сайта 
 
 
-#### 2. :book: Демо-проект API+UI автотестирования сервиса [Book Club](https://github.com/sv-esina/book-club-tests)
+#### :book: Демо-проект API+UI автотестирования сервиса [Book Club](https://github.com/sv-esina/book-club-tests)
 
 
-#### 3. :iphone:  Демо-проект мобильной автоматизации приложения [Wikipedia](https://github.com/sv-esina/wikipedia_mobile_tests)
+#### :iphone:  Демо-проект мобильной автоматизации приложения [Wikipedia](https://github.com/sv-esina/wikipedia_mobile_tests)
