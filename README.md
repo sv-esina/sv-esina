@@ -42,7 +42,7 @@
 
 ### Мои проекты по автоматизации тестирования на Java:
 
-#### :desktop_computer: Демо-проект UI автотестирования сайта 
+#### :desktop_computer: Демо-проект UI автотестирования сайта [T-Bank](https://github.com/sv-esina/Tbank-UIproject)
 
 
 #### :book: Демо-проект API+UI автотестирования сервиса [Book Club](https://github.com/sv-esina/book-club-tests)
