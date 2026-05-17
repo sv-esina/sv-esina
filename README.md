@@ -48,4 +48,4 @@
 #### :book: Демо-проект API+UI автотестирования сервиса [Book Club](https://github.com/sv-esina/book-club-tests)
 
 
-#### :iphone:  Демо-проект мобильной автоматизации приложения [Wikipedia](https://github.com/sv-esina/wikipedia_mobile_tests)
+#### :iphone:  Демо-проект мобильной автоматизации приложения [Wikipedia](https://github.com/sv-esina/Wiki_mobile_tests)
